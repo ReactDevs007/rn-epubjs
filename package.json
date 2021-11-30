@@ -26,7 +26,6 @@
     "path-webpack": "0.0.3",
     "react": "17.0.1",
     "react-native": "0.64.2",
-    "rn-fetch-blob": "0.12.0",
     "stream": "0.0.2",
     "stream-browserify": "2.0.2",
     "util": "0.12.3",
